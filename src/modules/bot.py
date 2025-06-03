@@ -9,7 +9,7 @@ import importlib
 import traceback
 from os.path import splitext, basename
 from src.common import config, utils
-from src.detection import detection
+#from src.detection import detection
 from src.routine import components
 from src.routine.routine import Routine
 from src.command_book.command_book import CommandBook
